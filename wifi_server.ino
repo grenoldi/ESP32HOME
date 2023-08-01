@@ -2,8 +2,8 @@
 
 AsyncWebServer server(80);
 
-const char* ssid = "SILVIA";
-const char* pass = "sgg311220";
+const char* ssid = "user";
+const char* pass = "pass";
 
 void setup() {
   Serial.begin(115200);
